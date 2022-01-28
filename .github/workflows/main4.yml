@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-push-images:
-    name: Zadanie 2.4 z cachem
+    name: Zadanie 2.4 z cachem2
     runs-on: ubuntu-latest
 
     steps:
